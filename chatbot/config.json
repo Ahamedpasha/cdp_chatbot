@@ -1,0 +1,21 @@
+{
+    "documentation_data": {
+      "Segment": {
+        "Set up a new source": "Go to your workspace, click 'Add Source', and choose your integration.",
+        "Track events": "Use Segment's tracking library to record user events."
+      },
+      "mParticle": {
+        "Create a user profile": "Navigate to the Users section, click 'Create Profile', and fill in the details.",
+        "Set up an event integration": "Go to Integrations, choose your destination, and configure events."
+      },
+      "Lytics": {
+        "Build an audience segment": "In Lytics, go to the Audience tab, select 'Create Segment', and apply your filters.",
+        "View user data": "Access user profiles by navigating to the Data tab."
+      },
+      "Zeotap": {
+        "Integrate data": "Visit the Integration section, select your source, and follow the guided steps.",
+        "Export audience segments": "Go to the Audience section, click 'Export', and choose the desired format."
+      }
+    }
+  }
+  
