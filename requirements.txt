@@ -1,3 +1,0 @@
-# requirements.txt
-# Example dependencies (if needed in the future)
-# requests
